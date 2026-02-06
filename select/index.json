@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Hands Up to the Sky",
+  "base_artist": "SawanoHiroyuki[nZk]",
+  "createdAt": "2026-02-06T09:42:07.886873Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hands Up to the Sky",
+      "artist": "SawanoHiroyuki[nZk]",
+      "has_synced": true,
+      "path": "select/01_Hands_Up_to_the_Sky_SawanoHiroyuki[nZk].lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hands Up to the Sky",
+      "artist": "SawanoHiroyuki[nZk]",
+      "has_synced": true,
+      "path": "select/02_Hands_Up_to_the_Sky_SawanoHiroyuki[nZk].lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hands Up to the Sky",
+      "artist": "SawanoHiroyuki[nZk]:Laco",
+      "has_synced": true,
+      "path": "select/03_Hands_Up_to_the_Sky_SawanoHiroyuki[nZk]_Laco.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hands Up to the Sky",
+      "artist": "SawanoHiroyuki[nZk]:Laco",
+      "has_synced": true,
+      "path": "select/04_Hands_Up_to_the_Sky_SawanoHiroyuki[nZk]_Laco.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hands Up To The Sky",
+      "artist": "Spearhead",
+      "has_synced": true,
+      "path": "select/05_Hands_Up_To_The_Sky_Spearhead.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hands Up to the Sky (feat. Laco)",
+      "artist": "SawanoHiroyuki[nZk]",
+      "has_synced": true,
+      "path": "select/06_Hands_Up_to_the_Sky_(feat._Laco)_SawanoHiroyuki[nZk].lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hands Up to the Sky",
+      "artist": "SawanoHiroyuki[nZk] feat. Laco",
+      "has_synced": true,
+      "path": "select/07_Hands_Up_to_the_Sky_SawanoHiroyuki[nZk]_feat._Laco.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hands Up To The Sky",
+      "artist": "Michael Franti",
+      "has_synced": true,
+      "path": "select/08_Hands_Up_To_The_Sky_Michael_Franti.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hands Up to the Sky (Instrumental)",
+      "artist": "SawanoHiroyuki[nZk]:Laco",
+      "has_synced": true,
+      "path": "select/09_Hands_Up_to_the_Sky_(Instrumental)_SawanoHiroyuki[nZk]_Laco.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hands Up To The Sky",
+      "artist": "Michael Franti & Spearhead",
+      "has_synced": true,
+      "path": "select/10_Hands_Up_To_The_Sky_Michael_Franti_&_Spearhead.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hands Up to the Sky",
+      "artist": "SawanoHiroyuki",
+      "has_synced": true,
+      "path": "select/11_Hands_Up_to_the_Sky_SawanoHiroyuki.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "hands up to the sky",
+      "artist": "sawanohiroyukinzklaco",
+      "has_synced": true,
+      "path": "select/12_hands_up_to_the_sky_sawanohiroyukinzklaco.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hands Up to the Sky",
+      "artist": "Sawano Hiroyuki",
+      "has_synced": true,
+      "path": "select/13_Hands_Up_to_the_Sky_Sawano_Hiroyuki.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hands Up to the Sky",
+      "artist": "SawanoHiroyuki[nZk]",
+      "has_synced": true,
+      "path": "select/14_Hands_Up_to_the_Sky_SawanoHiroyuki[nZk].lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Hands Up To The Sky",
+      "artist": "Michael Franti & Spearhead",
+      "has_synced": true,
+      "path": "select/15_Hands_Up_To_The_Sky_Michael_Franti_&_Spearhead.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hands Up to the Sky",
+      "artist": "SawanoHiroyuki[nZk]:Laco",
+      "has_synced": false,
+      "path": "select/pl_01_Hands_Up_to_the_Sky_SawanoHiroyuki[nZk]_Laco.txt"
+    }
+  ]
+}
